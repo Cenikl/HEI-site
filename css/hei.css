@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(48, 48, 48);
+}
+body label {
+    color: white;
+}
+.all {
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    background-image: url(../images/bgdark.jpg);
+    background-size: cover;
+}
+header {
+    text-align: center;
+}
+h1 {
+    color: #d09619;
+}
+input {
+width: 90%;
+height: 1.3cm;
+margin-top: 5px;
+text-align: center;
+padding-right: auto;
+padding-left: auto;
+}
+.description {
+   padding-left: auto;
+   padding-right: auto;
+}
+#cin {
+    padding-left: 42.5%;
+}
+
+.nov {
+width: 2vw;
+height: 2vh;
+}
+.inscri {
+width:90.5%;
+height:10vh;
+padding-left: auto;
+padding-right: auto;
+background-color: black;
+color: brown;
+font-size: 20px;
+}
